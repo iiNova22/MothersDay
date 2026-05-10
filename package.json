@@ -1,0 +1,20 @@
+{
+  "name": "mothers-day-app",
+  "version": "1.0.0",
+  "description": "A web application to celebrate Mother's Day with compliments and a pop-up message.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "Mother's Day",
+    "compliments",
+    "web application"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
